@@ -19,14 +19,6 @@ Estudante de Sistemas de Informação focado em Desenvolvimento Back-End com Jav
 
 Os projetos publicados neste perfil representam minha evolução prática em Java e Desenvolvimento Back-End, aplicando os conhecimentos adquiridos durante meus estudos.
 
-##📈 Estatísticas
-
-![Kauã's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaSilva11&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaSilva11&layout=compact&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaSilva11&layout=compact&theme=github_dark)
-
 ##📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiskauasilva)
