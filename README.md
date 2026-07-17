@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá! Eu sou o Kauã 👋
 
-<!--
-**KauaSilva11/KauaSilva11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Sistemas de Informação focado em Desenvolvimento Back-End com Java, construindo projetos e evoluindo continuamente através da prática.
 
-Here are some ideas to get you started:
+## 💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudante de Sistemas de Informação (6º período)
+- ☕ Focado em Desenvolvimento Back-End com Java
+- 🌱 Atualmente estudando Spring Boot, Angular, SQL, Git e APIs REST
+- 🚀 Construindo projetos para evoluir como desenvolvedor
+
+##🚀 Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,git,github,html,css,mysql,vscode,idea" />
+</p>
+
+## 📂 Projetos
+
+Os projetos publicados neste perfil representam minha evolução prática em Java e Desenvolvimento Back-End, aplicando os conhecimentos adquiridos durante meus estudos.
+
+##📈 Estatísticas
+
+![Kauã's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaSilva11&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaSilva11&layout=compact&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaSilva11&layout=compact&theme=github_dark)
+
+##📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiskauasilva)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauasilva11@gmail.com)
